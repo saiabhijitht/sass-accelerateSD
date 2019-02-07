@@ -1,5 +1,4 @@
 # Sustainability Assessment & Accreditation System(SAAS)
-Date updated: 07-02-2019.
 
 SAAS is a Robust Technology driven Platform to engage Citizens, Companies & Investors to take a pledge and to create a Roadmap & Action plan.
 ## What are the Project goals?
